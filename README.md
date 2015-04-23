@@ -1,0 +1,2 @@
+# mf-template
+Makefile template
